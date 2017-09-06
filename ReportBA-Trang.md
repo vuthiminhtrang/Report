@@ -1,0 +1,11 @@
+# Tổng hợp các task đang thực hiện
+## 1. Ràng buộc điều kiện tạo phiếu biên nhận mới và biên nhận lại (Đang test - Chờ fix bug)
+## 2. Thêm cột Imei 2 vào báo cáo đối chiếu chuyển kho Perp (Đang test)
+## 3. Ràng buộc in Biên nhận thanh toán đối với các CN thuộc Coop (Đang test - Chờ fix bug)
+## 4. Bổ sung các thông tin trong báo cáo Doanh thu - Lợi nhuận và điều chỉnh cho phép import thủ công toàn bộ Doanh thu (Đang chốt YC)
+## 5. Báo cáo sổ chi tiết tài khoản chưa chuyển sổ nhưng ở trạng thái chưa tạo bút toán vẫn xem được dữ liệu (Đang chốt YC)
+## 6. Tạo và đồng bộ mã hàng Pos - Perp tự động (Đang chốt YC)
+## 7. Ràng buộc việc nhập thời gian làm việc trên hệ thống để chia thưởng gián tiếp (Đang phân tích)
+## 8. IN hóa đơn hoàn thuế tự động và tự in (Đang chốt YC)
+## 9. Bổ sung thông tin trên PN linh kiện và báo cáo chi tiết nhập kho (Đang phân tích)
+## 10. Ràng buộc chuyển kho hàng trưng bày tự động từ kho VStore (Đang phân tích)
